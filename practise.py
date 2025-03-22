@@ -1,3 +1,3 @@
 print("hello word")
-print("John Migwi")
-print("fair price")
+print("am back home")
+print("wrc 2025")
